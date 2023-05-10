@@ -1,2 +1,2 @@
-# IS1200-Datorteknik
-IS1200-Datorteknik
+# IS1200 Computer Hardware Engineering
+Consists of 4 labs and 4 seminars
